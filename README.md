@@ -1,1 +1,1 @@
-# KrishiConnect: An application that recommends crops to farmers based on the soil conditions.
+# KrishiConnect: A machine learning based system which aims to imporve farming by providing two main functionalties: A Crop and Fertilizer recommendation system based on environmental parameters, as well as a computer vision based plant disease detection system based on images of plants.
